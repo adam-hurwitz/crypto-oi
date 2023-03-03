@@ -101,6 +101,8 @@ C. Integrate with a trusted provider who has integrated, e.g. A bridging service
 
 #### About
 
+- Maintains the privacy of connected accounts
+    - Compared to other contract and registry delegation strategies that potentially expose the account addresses.
 - Open-source
 - Compatible for EVM protocols
 - Twitter: [@Sismo_eth](https://twitter.com/Sismo_eth)
