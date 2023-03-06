@@ -196,4 +196,5 @@ description: Arweave
     - [Arweave vs Filecoin](https://ardrive.io/arweave-vs-filecoin) *by ArDrive*
     - [Content persistence](https://nftschool.dev/concepts/content-persistence/#why-content-persistence) *by NFT School*
 
-<p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
+<p style="text-align: center; font-style: italic">This content is not financial or technical advice. Always consult a financial professional and do your own research.
+.</p>

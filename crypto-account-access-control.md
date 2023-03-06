@@ -155,4 +155,5 @@ C. Integrate with a trusted provider who has integrated, e.g. A bridging service
 
 - Which solutions are the most trustless? That is do they require trust in a third party for the off-chain transactions?
 
-<p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
+<p style="text-align: center; font-style: italic">This content is not financial or technical advice. Always consult a financial professional and do your own research.
+</p>
