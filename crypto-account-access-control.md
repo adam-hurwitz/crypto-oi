@@ -1,6 +1,6 @@
 ---
 title: 🫱🏻‍🫲🏼 Crypto account access control
-tags: Ethereum
+tags: Crypto
 description: Access control for crypto accounts
 ---
 
@@ -68,7 +68,7 @@ C. Integrate with a trusted provider who has integrated, e.g. A bridging service
 
 - Public audits on the Delegate.cash contract
 - [EIP-5639: Delegation Registry](https://eips.ethereum.org/EIPS/eip-5639) adoption
-- [Safe](https://docs.google.com/document/d/1IiCJ2WESRO23kNCxWRKTz3nVysqOBuxnmuIVTL9JK04/edit#bookmark=id.i7f3ec1f1z6v) support
+- [Safe](https://hackmd.io/@safe/og/https%3A%2F%2Fhackmd.io%2F%40safe%2Fopportunities#Access-control-P1) support
 
 #### Open-source
 
@@ -136,7 +136,7 @@ C. Integrate with a trusted provider who has integrated, e.g. A bridging service
 - Registry-based (Similar to Delegate.cash)
 - You can only delegate access to your cold wallet to a single hot wallet at a time: [warm.xyz/faq](https://warm.xyz/faq) > *How do I use Warm?*
 
-# Research
+# Research to dos
 
 ## Return on investment (ROI)
 
