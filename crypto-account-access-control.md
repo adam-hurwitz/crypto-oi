@@ -136,6 +136,21 @@ C. Integrate with a trusted provider who has integrated, e.g. A bridging service
 - Registry-based (Similar to Delegate.cash)
 - You can only delegate access to your cold wallet to a single hot wallet at a time: [warm.xyz/faq](https://warm.xyz/faq) > *How do I use Warm?*
 
+# Zodiac
+
+*[gnosisguild.org](https://www.gnosisguild.org/)*
+
+#### About
+
+- Contract tools for programmable accounts
+- Originally built by the Gnosis team
+- Twitter: [@GnosisGuild](https://twitter.com/GnosisGuild)
+
+#### Community
+- Discord: [discord.com/invite/2GC7M8UEHC](https://discord.com/invite/2GC7M8UEHC)
+- Blog: [gnosisguild.mirror.xyz](https://gnosisguild.mirror.xyz/)
+- GitHub: [github.com/gnosis/zodiac](https://github.com/gnosis/zodiac#zodiac-the-expansion-pack-for-daos)
+
 # Research to dos
 
 ## Return on investment (ROI)
@@ -149,7 +164,7 @@ C. Integrate with a trusted provider who has integrated, e.g. A bridging service
             - Top NFT projects
             - Top games
         - Organizations
-    - Total USD value of high-profile hacks in crypto.
+    - Total USD value of high-profile hacks in crypto, e.g. [rekt.news/leaderboard](https://rekt.news/leaderboard/).
 
 ## Decentralization
 
