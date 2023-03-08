@@ -76,11 +76,25 @@ description: Arweave
 
 - [viewblock.io](https://viewblock.io)
 
+#### Akord
+
+- About
+    - Permanent data storage
+        - Including photos, videos, and audio player
+    - Publishing with Markdown language
+    - Pay with Stripe in local currency
+- Site: [akord.com](https://akord.com)
+    - [Permaweb Publishing](https://akord.com/products/web-app)
+    - [API & Builder Tools](https://akord.com/products/api)
+- Documentation: [docs.akord.com](https://docs.akord.com)
+    - Potentially to host docs on Arweave: [@AkordTeam 2022-01-19](https://twitter.com/AkordTeam/status/1616076783757193218)
+
 #### ArDrive
 
 - About
     - Permanent data storage
     - Supports < 100 mb file sizes for private drives
+    - Pay with Arweave account in $AR.
 - Site: [ardrive.io](https://ardrive.io)
 - Apps: [ardrive.io/mobile](https://ardrive.io/mobile)
 - Security: [What are the privacy and encryption standards?](https://ar-io.zendesk.com/hc/en-us/articles/5300397200283-What-are-the-privacy-and-encryption-standards-)
@@ -90,15 +104,6 @@ description: Arweave
     - Choose to "forget" data since data cannot be deleted.
 * Related topics
     - [The future of files and decentralized gateways with founder of ArDrive/Ar.io Phil Mataras](https://pca.st/4zk7unaw) *on Permaweb Pioneers show 2022-09-01*
-
-#### Akord
-
-- About
-    - Publishing
-    - Uses Markdown language
-- Site: [akord.com](https://akord.com)
-- Documentation: [docs.akord.com](https://docs.akord.com)
-    - Potentially to host docs on Arweave: [@AkordTeam 2022-01-19](https://twitter.com/AkordTeam/status/1616076783757193218)
 
 #### Permafy
 
