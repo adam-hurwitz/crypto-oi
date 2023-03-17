@@ -142,9 +142,8 @@ C. Integrate with a trusted provider who has integrated, e.g. A bridging service
 
 #### About
 
-- Contract tools for programmable accounts
-- Originally built by the Gnosis team
-- Twitter: [@GnosisGuild](https://twitter.com/GnosisGuild)
+- Open protocols for DAOs and contract tools for programmable accounts
+- Originally built by the Gnosis team and [@gnosisGuild](https://twitter.com/gnosisguild)
 
 #### Community
 - Discord: [discord.com/invite/2GC7M8UEHC](https://discord.com/invite/2GC7M8UEHC)
