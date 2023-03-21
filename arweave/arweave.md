@@ -1,6 +1,6 @@
 ---
 title: 🐘 Arweave
-tags: Crypto
+tags: crypto
 description: Arweave
 ---
 
@@ -78,7 +78,7 @@ description: Arweave
 
 #### Akord
 
-- *See [hackmd.io/@openguide/akord](https://hackmd.io/@openguide/akord)*
+- *See [hackmd.io/@openinfo/akord](https://hackmd.io/@openinfo/akord)*
 
 #### ArDrive
 
