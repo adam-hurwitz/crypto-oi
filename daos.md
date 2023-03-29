@@ -13,11 +13,12 @@ description: Decentralized autonomous organizations
 
 # Snapshot voting
 
+*[snapshot.org](https://snapshot.org)*
+
 ## About
 
 #### Overview
 
-- Site: [snapshot.org](https://snapshot.org)
 - Built by Snapshot Labs
 - Off-chain and gasless voting
 - Developed in part by the [Balancer](https://docs.google.com/document/u/0/d/18E4I0bEU6A0pewJr5XaTR9ACbAIZz3ZsaljF7y7XhMU/edit) team
@@ -73,7 +74,16 @@ description: Decentralized autonomous organizations
 - [Shielded voting demo](https://snapshot.org/#/pistachiodao.eth/proposal/0xa5077ef17097b1d59304b110337bd1c7ce98d95d3ff81d138c3886a80074b4d9)
 - *See [Shielded voting is live!](https://snapshot.mirror.xyz/yGz91njKbw-sXsnAT6RkoMzPwvuddZritz37h1OWO8o) by Snapshot Labs 2022-10-13*
 
-# Related organizations
+# Collab.Land
+
+*[collab.land](https://www.collab.land/)*
+
+#### About
+
+- Community management tools
+- E.g. User verification and token gating on Discord and Telegram
+
+# Related organization types
 
 #### Swiss non-profit
 
