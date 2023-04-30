@@ -42,7 +42,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 - Encrypted
     - End-to-end encrypted (E2EE)
-    - Private and share options
+    - Private encrypted and share options
+    - Encrypted files are available for anyone to download
+    - Current AES-256 encryption requires $2.29x10^{32}$ years
+
 - Public
     - Not end-to-end encrypted (E2EE)
 - Terms of access (ToA)
@@ -55,8 +58,8 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Revoking prevents anyone from renaming, moving, downloading, or viewing the file.
         - The file continues to exist.
         - The file remains encrypted and is therefore useless. 
-    - To research
-        - Is it possible to remove revoked files from the Arweave the network?: [@adamshurwitz Tweet 2023-04-29](https://twitter.com/adamshurwitz/status/1652379182293196801)
+    - Opportunity
+        - Remove revoked files from the Arweave network: [@adamshurwitz Tweet 2023-04-30](https://twitter.com/adamshurwitz/status/1652718211052322817)
     - Resources
         - Arweave content moderation: [Open info](https://hackmd.io/@openinfo/arweave#Content-moderation)
         - [Can I delete files from permanent storage?](https://docs.akord.com/v/app-docs/frequently-asked-questions/can-i-delete-files-from-the-blockchain)
