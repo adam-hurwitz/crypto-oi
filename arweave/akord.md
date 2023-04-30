@@ -1,6 +1,6 @@
 ---
 title: 🅰 Akord
-tags: Crypto
+tags: crypto
 description: Akord decentralizatd and encrypted file storage.
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
@@ -55,7 +55,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Revoking prevents anyone from renaming, moving, downloading, or viewing the file.
         - The file continues to exist.
         - The file remains encrypted and is therefore useless. 
-    - *See [Can I delete files from permanent storage?](https://docs.akord.com/v/app-docs/frequently-asked-questions/can-i-delete-files-from-the-blockchain)*
+    - To research
+        - Is it possible to remove revoked files from the Arweave the network?: [@adamshurwitz Tweet 2023-04-29](https://twitter.com/adamshurwitz/status/1652379182293196801)
+    - Resources
+        - Arweave content moderation: [Open info](https://hackmd.io/@openinfo/arweave#Content-moderation)
+        - [Can I delete files from permanent storage?](https://docs.akord.com/v/app-docs/frequently-asked-questions/can-i-delete-files-from-the-blockchain)
 
 #### Messaging
 
@@ -65,6 +69,9 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 - End-to-end-encryption (E2EE) with zero-knowledge proofs (ZKPs)
     - [End-to-end encryption](https://docs.akord.com/learn/end-to-end-encryption)
+- Multi-factor authentication (MFA)
+    - App
+    - SMS
 - Permanent data storage
     - [Arweave protocol](https://docs.akord.com/v/app-docs/arweave/arweave-protocol)
 - Decentralization with Akord Explorer
@@ -79,9 +86,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Opportunities
 
-#### Show "Pending upload to Arweave" status in the *Vaults* view. (P0)
-
-#### Multi-factor authentication (MFA) (P0)
+#### Files show at the vault root level when they are uploaded instead of the current directory location (P0)
 
 #### Show potential causes for files not uploading. (P1)
 
@@ -97,4 +102,4 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 #### Keyboard shortcuts for basic actions (P2)
 
-<p style="text-align: center; font-style: italic">This is not technical advice. Always read the official documentation and do your own research.</p>
+<p style="text-align: center; font-style: italic">This information is not financial or technical advice. Always consult a financial professional and do your own research.</p>
