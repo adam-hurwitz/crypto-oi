@@ -89,7 +89,20 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Opportunities
 
-#### Files show at the vault root level when they are uploaded instead of the current directory location (P0)
+## Open
+
+#### Download directories containing child directories (P0)
+
+- The downloaded directory only contained it's "1st level of child files" and no "2nd level of directories".
+- E.g. Download a `build-oi` folder.
+  - Downloaded successfully
+    - `build-oi/artificial-intelligence-ai.md`
+    - `build-oi/markdown.md`
+    - `build-oi/open-information-oi.md`
+    - `build-oi/skiff.md`
+  - Did not download
+    - `build-oi/.git/...`
+    - `build-oi/hackmd/...`
 
 #### Show potential causes for files not uploading. (P1)
 
@@ -104,5 +117,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 #### Mobile apps (P2)
 
 #### Keyboard shortcuts for basic actions (P2)
+
+## Fixed
+
+#### Files show at the vault root level when they are uploaded instead of the current directory location (P0)
+
+- Fixed 2023-06-20
 
 <p style="text-align: center; font-style: italic">This information is not financial or technical advice. Always consult a financial professional and do your own research.</p>
