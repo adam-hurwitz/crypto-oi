@@ -103,6 +103,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
   - Did not download
     - `build-oi/.git/...`
     - `build-oi/hackmd/...`
+- *See [Discord post 2023-06-27](https://discord.com/channels/890229689019432981/890867529231237140/1123344661545758720)*
 
 #### Show potential causes for files not uploading. (P1)
 
