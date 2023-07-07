@@ -74,6 +74,24 @@ description: Decentralized autonomous organizations
 - [Shielded voting demo](https://snapshot.org/#/pistachiodao.eth/proposal/0xa5077ef17097b1d59304b110337bd1c7ce98d95d3ff81d138c3886a80074b4d9)
 - *See [Shielded voting is live!](https://snapshot.mirror.xyz/yGz91njKbw-sXsnAT6RkoMzPwvuddZritz37h1OWO8o) by Snapshot Labs 2022-10-13*
 
+## Opportunities
+
+#### Time power voting
+
+- Reduce the entity token voting power as time elapses.
+- This potentially reduces large entities from voting at the very end of an election to attempt to influence the outcome.
+- Sub-strategy that can be applied on top of an existing voting strategy
+- E.g. Day 0 the entity has 100% voting power, day 14 they have 80% of the voting power
+- *See [@adamshurwitz Tweet 2023-07-05](https://twitter.com/adamshurwitz/status/1676687593155571712)*
+
+#### Change fees
+
+- Reduce the entity token voting power when a vote is changed.
+- This potentially reduces large entities from voting deceptively by changing their vote multiple times.
+- Sub-strategy that can be applied on top of an existing voting strategy
+- E.g. Reduce voting power by 15% each time the vote is changed.
+- *See [@adamshurwitz Tweet 2023-07-05](https://twitter.com/adamshurwitz/status/1676687595722485760)*
+
 # Collab.Land
 
 *[collab.land](https://www.collab.land/)*
