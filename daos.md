@@ -92,6 +92,30 @@ description: Decentralized autonomous organizations
 - E.g. Reduce voting power by 15% each time the vote is changed.
 - *See [@adamshurwitz Tweet 2023-07-05](https://twitter.com/adamshurwitz/status/1676687595722485760)*
 
+# Charmverse
+
+*[charmverse.io](https://www.charmverse.io/)*
+
+#### About
+
+- Collaboration tools for self-ownership accounts
+- Login with self-ownership accounts, social media, or custodidal accounts
+- Role based access controls
+    - Token gating
+
+#### Community and support
+
+- Twitter: [@CharmVerse](https://twitter.com/CharmVerse)
+- Discord: [discord.com/invite/VvhEafEWcg](https://discord.com/invite/VvhEafEWcg)
+
+#### Adoption
+
+- Optimism
+- UkraineDAO
+- Green Pill
+- PleasrDAO
+- etc.
+
 # Collab.Land
 
 *[collab.land](https://www.collab.land/)*
