@@ -92,7 +92,7 @@ description: Decentralized autonomous organizations
 - E.g. Reduce voting power by 15% each time the vote is changed.
 - *See [@adamshurwitz Tweet 2023-07-05](https://twitter.com/adamshurwitz/status/1676687595722485760)*
 
-# Charmverse
+# CharmVerse
 
 *[charmverse.io](https://www.charmverse.io/)*
 
