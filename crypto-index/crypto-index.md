@@ -1,15 +1,10 @@
 ---
-title: 🌐 Open crypto info
+title: 🌐 Crypto
 tags: crypto
-description: 🌐 Open crypto info
+description: Crypto open info (OI)
 ---
 
-<h1 style="text-align: center;">🌐 Open crypto info</h1>
-
-<p style="text-align: center; 
-          font-style: italic;">
-    OCI
-</p>
+<h1 style="text-align: center;">🌐 Crypto</h1>
 
 <!-- Protocols and Accounts -->
 
