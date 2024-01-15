@@ -90,7 +90,11 @@ description: Crypto open info (OI)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t0vf"><a href="https://docs.google.com/document/d/1e03I6kGgzDaOksqqvCRrG7oIpEFVTZ8avtC5_a9XWzo/edit#heading=h.8jhet6s86aq6" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold">💸 Crypto tax</span></a><br><br><a href="https://docs.google.com/document/d/1B7bKyvEQ1KFT-yOzHgS8nzMcIg1Ec5BNpaToDR2OTVg/edit#heading=h.n7hrx3498vgq" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold">📊 TaxBit (TB)</span></a><br><br><a href="https://docs.google.com/document/d/1D_OK9TE_kJRHRp7Svfm8a9bhUZICs-9rOrbczo2AwGM/edit#heading=h.r3y3hf58tvcs" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold">📊 CoinTracker (CT)</span></a></td>
+    <td class="tg-t0vf">
+        <a href="https://hackmd.io/@openinfo/cryptotracking-features" target="_blank" rel="noopener noreferrer">Crypto tracking features</a><br><br>
+        <a href="https://docs.google.com/spreadsheets/d/1qAman-MLsDcNRfNIsO6dFsITWoFdZN9fLObmT0hqvM4/edit#gid=0" target="_blank" rel="noopener noreferrer">Crypto tax software</a><br><br>
+        <a href="https://docs.google.com/document/d/1e03I6kGgzDaOksqqvCRrG7oIpEFVTZ8avtC5_a9XWzo/edit#heading=h.8jhet6s86aq6" target="_blank" rel="noopener noreferrer">💸 Crypto tax events</a>
+      </td>
     <td class="tg-t0vf"></td>
   </tr>
 </tbody>
