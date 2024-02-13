@@ -140,6 +140,7 @@ description: Decentralized autonomous organizations
     - Unregistered futures commission merchant (FCM)
     - Not decentralized: bZeroX and Ooki DAO are essentially the same organization
 - Resources
+    - [CFTC Wins Lawsuit Against Ooki DAO](https://www.coindesk.com/policy/2023/06/09/cftc-wins-lawsuit-against-ooki-dao/) *by CoinDesk 2023-06-12*
     - [Interpreting the CFTC’s Lawsuit Against Ooki DAO](https://www.coindesk.com/policy/2022/09/27/interpreting-the-cftcs-lawsuit-against-ooki-dao/) *by CoinDesk 2022-09-27*
     - [CFTC’s Ooki DAO Action Shatters Illusion of Regulator-Proof Protocol](https://www.coindesk.com/policy/2022/09/26/cftcs-ooki-dao-action-shatters-illusion-of-regulator-proof-protocol/) *by Coindesk 2022-09-26*
 
